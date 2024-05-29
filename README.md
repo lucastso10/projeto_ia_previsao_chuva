@@ -1,1 +1,2 @@
-# projeto_ia_previsao_chuva
+# Projeto previsão pluviométrica com IA
+Nesse projeto utilizamos redes neurais para determinar o indice pluviometrico de um dia, dado algumas medidas como temperatura máxima, temperatura mínima, tempo de sol, etc...
